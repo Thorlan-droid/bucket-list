@@ -77,6 +77,24 @@ header img{
     height: 40px;
 }
 
+.listul {
+    list-style: none;
+    padding: 0;
+
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+
+
+
 
 /********************** Module  5  Doctrine   **************************/
 
